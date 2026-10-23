@@ -539,6 +539,7 @@ Questions, ideas or a bug you'd like to talk through first? Bring them to [Disco
 <br>
 
 ## Downloads
+To build Windows packages for this fork, run the ArtCraft Launcher release workflow with a pinned source revision.
 
 **New to LightCraft?** Download it from the [LightCraft page on getartcraft.com](https://getartcraft.com/apps/lightcraft). That's the easiest way to install it.
 
